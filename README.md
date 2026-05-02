@@ -25,10 +25,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
 <p align="center">
   <img src="assets/VideoWalkthrough.gif" width="600" title="Project Walkthrough">
 </p>
