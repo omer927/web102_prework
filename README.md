@@ -30,7 +30,7 @@ Here's a walkthrough of implemented features:
 Here's a walkthrough of implemented features:
 
 <p align="center">
-  <img src="./img/VideoWalkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+  <img src="assets/VideoWalkthrough.gif" width="600" title="Project Walkthrough">
 </p>
 
 
