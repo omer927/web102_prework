@@ -29,7 +29,10 @@ Here's a walkthrough of implemented features:
 
 Here's a walkthrough of implemented features:
 
-<img src='Video Walkthrough.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<p align="center">
+  <img src="./img/VideoWalkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+</p>
+
 
 GIF created with **ScreenToGif** 
 
